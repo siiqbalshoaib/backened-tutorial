@@ -1,0 +1,15 @@
+{
+  "name": "backened-tutorial",
+  "version": "1.0.0",
+  "description": "backened tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backened"
+  ],
+  "author": "SHOAIB IQBAL",
+  "license": "ISC"
+}
